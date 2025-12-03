@@ -19,13 +19,17 @@ Tasks are saved in the browser using `localStorage` — so they remain even afte
 
 ## 🛠️ Tech Stack
 
-| Technology | Purpose |
-|-----------|---------|
-| React | Frontend framework |
-| JavaScript (ES6+) | Logic & interactivity |
-| CSS3 | Custom styling & animations |
+| Technology        | Purpose                     |
+| ----------------- | --------------------------- |
+| React             | Frontend framework          |
+| JavaScript (ES6+) | Logic & interactivity       |
+| CSS3              | Custom styling & animations |
 
 ---
+
+## 🌟 Live Demo
+
+🔗 https://task-manager-abdullahi.netlify.app
 
 ## 🚀 Getting Started
 
@@ -40,3 +44,4 @@ npm install
 
 # Run development server
 npm start
+```
